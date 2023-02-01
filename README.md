@@ -1,4 +1,4 @@
-# :computer: Desafio Tecnico Target System
+# :computer: Desafio Técnico Target System
 
 ## :dart: 1. Observe o trecho de código abaixo::  
 
@@ -35,7 +35,7 @@ sequência de Fibonacci e retorne uma mensagem avisando se o número informado p
 <br> 
 ☑️ Número de dias no mês em que o valor de faturamento diário foi superior à média mensal : Concluído :heavy_check_mark:
 <br>
-:danger: IMPORTANTE
+:warning: IMPORTANTE
 ☑️ Usar o json ou xml disponível como fonte dos dados do faturamento mensal; : Concluído :heavy_check_mark:
 <br> 
 ☑️ Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média; : Concluído :heavy_check_mark:
