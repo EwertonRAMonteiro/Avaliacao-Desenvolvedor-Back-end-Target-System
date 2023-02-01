@@ -36,6 +36,7 @@ sequência de Fibonacci e retorne uma mensagem avisando se o número informado p
 ☑️ Número de dias no mês em que o valor de faturamento diário foi superior à média mensal : Concluído :heavy_check_mark:
 <br>
 :warning: IMPORTANTE
+<br>
 ☑️ Usar o json ou xml disponível como fonte dos dados do faturamento mensal; : Concluído :heavy_check_mark:
 <br> 
 ☑️ Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média; : Concluído :heavy_check_mark:
@@ -58,7 +59,7 @@ Outros – R$19.849,53 <br>
 
 ## :computer: Tecnologias Utilizadas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,spring,java,git,json" />
+  <img src="https://skillicons.dev/icons?i=idea,spring,java,git" />
 </a>
 <br>
 * Banco de Dados: Arquivo Externo .Json
