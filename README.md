@@ -73,6 +73,6 @@ Outros – R$19.849,53 <br>
   
 ## :mag: Adendo:
   <p>
-  Arquivo adicional com oustras questões do processo seletivo em word
+  Arquivo adicional com oustras questões do processo seletivo em word (Material Adicional)
   </p>
 <br>
