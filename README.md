@@ -73,6 +73,6 @@ Outros – R$19.849,53 <br>
   
 ## :mag: Adendo:
   <p>
-  Exercicio 3 foi adicionado metodos de listagem de faturamento e  soma total
+  Arquivo adicional com oustras questões do processo seletivo em word
   </p>
 <br>
